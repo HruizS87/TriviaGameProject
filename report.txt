@@ -1,0 +1,30 @@
+User: Hector
+Score: 10
+
+User: Brian
+Score: 9
+
+User: Luis
+Score: 8
+
+User: Rich
+Score: 7
+
+User: Kyle
+Score: 6
+
+User: Nick
+Score: 5
+
+User: Charles
+Score: 4
+
+User: Rick
+Score: 3
+
+User: Esther
+Score: 2
+
+User: James
+Score: 1
+
